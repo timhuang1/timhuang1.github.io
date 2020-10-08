@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Junqi Zhang"
+title                    : "Xinting Huang"
 title_separator          : "-"
-name                     : &name "Junqi Zhang"
-description              : &description "PhD student at Tsinghua University"
+name                     : &name "Xinting Huang"
+description              : &description "PhD student at University of Melbourne"
 url                      : https://timhuang1.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "timhuang1/timhuang1.github.io"
@@ -80,13 +80,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "张俊祺"
-  avatar           : "zhangjunqi.jpg"
-  bio              : "PhD student at Tsinghua University"
-  location         : "Beijing, China"
+  name             : "Xinting Huang"
+  avatar           : "THuang_web.jpg"
+  bio              : "PhD student at University of Melbourne"
+  location         : "Melbourne, Australia"
   employer         :
-  googlescholar    : "https://scholar.google.com.hk/citations?user=0aHrHfkAAAAJ"
-  email            : "zhangjq17@mails.tsinghua.edu.cn"
+  googlescholar    : "https://tbd.com"
+  email            : "xintingh@student.unimelb.edu.au"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -95,7 +95,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "IR-Ranker"
+  github           : 
   google_plus      :
   keybase          :
   instagram        :
