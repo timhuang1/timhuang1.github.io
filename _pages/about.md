@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About Me: Junqi Zhang (张俊祺)"
+title: "About Me: Xinting Huang"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am now a third year Ph.D. student in [THUIR group](http://www.thuir.cn/), [Department of Computer Science and Technology](http://www.cs.tsinghua.edu.cn) in Tsinghua University, Beijing, China. My supervisor is Prof. [Yiqun Liu](http://www.thuir.cn/group/~YQLiu/). My major research interests are in multimodal information retrieval and whole-page optimization.
+I am now a third year Ph.D. student in [School of Computing and Information System](http://www.cs.tsinghua.edu.cn) in University of Melbourne, Melbourne, Australia. My supervisor is Prof. [Rui Zhang](http://www.thuir.cn/group/~YQLiu/) and Dr. [Jianzhong Qi]. My major research interests are in natural language processing and machine learning.
 
 Recent Professional Activities
 ======
