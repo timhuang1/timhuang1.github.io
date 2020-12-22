@@ -13,7 +13,7 @@ I am now a third year Ph.D. student in [School of Computing and Information Syst
 I am currently looking for an internship. 
 
 ### Contact
-Email: [my initials]@student.unimelb.edu.au, where [my initials] = xintingh
+Email: [my initials]@student.unimelb.edu.au, where [my initials] = xintingh <br>
 Phone: (+86) 18650753218
 
 
