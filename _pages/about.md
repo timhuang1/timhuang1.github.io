@@ -8,7 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-I am now a third year Ph.D. student in [School of Computing and Information System](https://cis.unimelb.edu.au/) in University of Melbourne, Melbourne, Australia. My supervisor is Prof. [Rui Zhang](http://www.ruizhang.info/) and Dr. [Jianzhong Qi](https://people.eng.unimelb.edu.au/jianzhongq/). My major research interests are in natural language processing and machine learning.
+I am now a third year Ph.D. student in [School of Computing and Information System](https://cis.unimelb.edu.au/) in University of Melbourne, Melbourne, Australia. My major research interests are in natural language processing and machine learning.
+
+I am currently looking for an internship. 
+
+### Contact
+Email: [my initials]@student.unimelb.edu.au, where [my initials] = xintingh
+Phone: (+86) 18650753218
 
 
 Publications
